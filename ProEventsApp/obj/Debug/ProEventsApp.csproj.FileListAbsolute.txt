@@ -1,0 +1,41 @@
+E:\4th Year Project\ProEventsApp\ProEventsApp\bin\Debug\ProEventsApp.dll
+E:\4th Year Project\ProEventsApp\ProEventsApp\bin\Debug\ProEventsApp.pdb
+E:\4th Year Project\ProEventsApp\ProEventsApp\bin\Debug\ProEventsApp.ProEventsApp.apk
+E:\4th Year Project\ProEventsApp\ProEventsApp\bin\Debug\ProEventsApp.ProEventsApp-Signed.apk
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Debug\ProEventsApp.csprojResolveAssemblyReference.cache
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Debug\ProEventsApp.csproj.CoreCompileInputs.cache
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Debug\ProEventsApp.dll
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Debug\ProEventsApp.pdb
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Debug\android\bin\ProEventsApp.ProEventsApp.apk
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Debug\res\layout\main.xml
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Debug\res\values\strings.xml
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Debug\res\drawable\btnsigninstyle.xml
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Debug\res\drawable\btnsignupstyle.xml
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Debug\R.cs.flag
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Debug\uploadflags.txt
+E:\4th Year Project\ProEventsApp\ProEventsApp\bin\Debug\ProEventsApp.dll.mdb
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Debug\android\assets\ProEventsApp.dll.mdb
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Debug\res\layout\dialog_sign_up.xml
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Debug\res\drawable\edit_text_style.xml
+E:\4th Year Project\ProEventsApp\ProEventsApp\bin\Debug\ProEventsApp.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\ProEventsApp.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

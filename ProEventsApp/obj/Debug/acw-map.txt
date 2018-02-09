@@ -1,0 +1,8 @@
+ProEventsApp.Dialog_SignUp, ProEventsApp;md5385615a557505ad008dea2e845cae31a.Dialog_SignUp
+ProEventsApp.Dialog_SignUp, ProEventsApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5385615a557505ad008dea2e845cae31a.Dialog_SignUp
+ProEventsApp.Dialog_SignUp;md5385615a557505ad008dea2e845cae31a.Dialog_SignUp
+proeventsapp.Dialog_SignUp;md5385615a557505ad008dea2e845cae31a.Dialog_SignUp
+ProEventsApp.MainActivity, ProEventsApp;md5385615a557505ad008dea2e845cae31a.MainActivity
+ProEventsApp.MainActivity, ProEventsApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5385615a557505ad008dea2e845cae31a.MainActivity
+ProEventsApp.MainActivity;md5385615a557505ad008dea2e845cae31a.MainActivity
+proeventsapp.MainActivity;md5385615a557505ad008dea2e845cae31a.MainActivity

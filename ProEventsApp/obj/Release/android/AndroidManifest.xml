@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="ProEventsApp.ProEventsApp" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="21" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:allowBackup="true" android:label="@string/app_name" android:name="android.app.Application">
+    <activity android:label="Dialog_SignIn" android:name="md5385615a557505ad008dea2e845cae31a.Dialog_SignIn" />
+    <activity android:label="Dialog_SignUp" android:name="md5385615a557505ad008dea2e845cae31a.Dialog_SignUp" />
+    <activity android:label="ProEventsApp" android:name="md5385615a557505ad008dea2e845cae31a.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="MainProfile" android:name="md5385615a557505ad008dea2e845cae31a.MainProfile" />
+    <activity android:label="SetUpProfile" android:name="md5385615a557505ad008dea2e845cae31a.SetUpProfile" />
+    <activity android:label="Web Authenticator" android:name="md5ff7ab77db4f245bffa5244a84a5a1bca.FormAuthenticatorActivity" />
+    <activity android:label="Web Authenticator" android:name="md5ff7ab77db4f245bffa5244a84a5a1bca.WebAuthenticatorActivity" />
+    <activity android:label="Web Authenticator Native Broswer" android:launchMode="singleTop" android:name="md5ff7ab77db4f245bffa5244a84a5a1bca.WebAuthenticatorNativeBrowserActivity" />
+    <activity android:name="com.microsoft.windowsazure.mobileservices.authentication.RedirectUrlActivity" />
+    <service android:name="md59f70a99687498e7ba187118950981d26.KeepAliveService" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="ProEventsApp.ProEventsApp.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>

@@ -1,0 +1,11 @@
+Microsoft.Azure.Mobile.Client
+Newtonsoft.Json
+PCLCrypto
+PInvoke.BCrypt
+PInvoke.Kernel32
+PInvoke.NCrypt
+PInvoke.Windows.Core
+System.Runtime
+Validation
+Xamarin.Android.Support.CustomTabs
+Xamarin.Android.Support.v4
