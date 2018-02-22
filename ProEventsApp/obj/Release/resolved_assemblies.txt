@@ -13,11 +13,11 @@ E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\android\assets\System.
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\android\assets\System.dll
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\android\assets\System.Net.Http.dll
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\android\assets\System.Xml.dll
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\android\assets\System.Xml.Linq.dll
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\android\assets\Validation.dll
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\android\assets\Xamarin.Android.Support.CustomTabs.dll
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\android\assets\Xamarin.Android.Support.v4.dll
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\android\assets\System.Runtime.Serialization.dll
-E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\android\assets\System.Xml.Linq.dll
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\android\assets\Microsoft.CSharp.dll
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\android\assets\System.Numerics.dll
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\android\assets\Mono.Security.dll

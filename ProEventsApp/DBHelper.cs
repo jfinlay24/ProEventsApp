@@ -100,5 +100,13 @@ namespace ProEventsApp
                 return false;
             }
         }
+        public static async Task<UserProf> ProfileSetUp(string username)
+        {
+            CurrentPlatform.Init();
+            List<UserProf> ls = await MobileService.GetTable<UserProf>().ToListAsync();
+            UserProf prof = ls.FirstOrDefault(x => x.Username == username);
+            return prof;
+            //return Client.GetTable<UserProf>(x => x.Username == username);
+        }
     }
 }

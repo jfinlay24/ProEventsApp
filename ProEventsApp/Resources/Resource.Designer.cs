@@ -102,10 +102,22 @@ namespace ProEventsApp
 			public const int btnSignUpStyle = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int edit_text_style = 2130837506;
+			public const int connections = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int ic_arrow_back = 2130837507;
+			public const int create = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int edit_text_style = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int events = 2130837509;
+			
+			// aapt resource value: 0x7f020006
+			public const int home = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int ic_arrow_back = 2130837511;
 			
 			static Drawable()
 			{
@@ -126,8 +138,8 @@ namespace ProEventsApp
 			// aapt resource value: 0x7f080005
 			public const int btnDialogSignup = 2131230725;
 			
-			// aapt resource value: 0x7f080010
-			public const int btnSave = 2131230736;
+			// aapt resource value: 0x7f080018
+			public const int btnSave = 2131230744;
 			
 			// aapt resource value: 0x7f080007
 			public const int btnSignIn = 2131230727;
@@ -135,23 +147,47 @@ namespace ProEventsApp
 			// aapt resource value: 0x7f080009
 			public const int btnSignUp = 2131230729;
 			
+			// aapt resource value: 0x7f080010
+			public const int connections = 2131230736;
+			
+			// aapt resource value: 0x7f080016
+			public const int county = 2131230742;
+			
 			// aapt resource value: 0x7f08000e
-			public const int county = 2131230734;
+			public const int createEvents = 2131230734;
+			
+			// aapt resource value: 0x7f08000c
+			public const int events = 2131230732;
 			
 			// aapt resource value: 0x7f08000a
-			public const int textRegister = 2131230730;
+			public const int home = 2131230730;
+			
+			// aapt resource value: 0x7f080012
+			public const int textRegister = 2131230738;
 			
 			// aapt resource value: 0x7f080004
 			public const int txtConfirmPassword = 2131230724;
+			
+			// aapt resource value: 0x7f080011
+			public const int txtConnections = 2131230737;
 			
 			// aapt resource value: 0x7f080006
 			public const int txtCreateAccount = 2131230726;
 			
 			// aapt resource value: 0x7f08000f
-			public const int txtDescripton = 2131230735;
+			public const int txtCreateEvents = 2131230735;
+			
+			// aapt resource value: 0x7f080017
+			public const int txtDescripton = 2131230743;
+			
+			// aapt resource value: 0x7f08000d
+			public const int txtEvents = 2131230733;
+			
+			// aapt resource value: 0x7f080013
+			public const int txtFirstName = 2131230739;
 			
 			// aapt resource value: 0x7f08000b
-			public const int txtFirstName = 2131230731;
+			public const int txtHome = 2131230731;
 			
 			// aapt resource value: 0x7f080008
 			public const int txtOr = 2131230728;
@@ -159,11 +195,11 @@ namespace ProEventsApp
 			// aapt resource value: 0x7f080002
 			public const int txtPassword = 2131230722;
 			
-			// aapt resource value: 0x7f08000d
-			public const int txtProfession = 2131230733;
+			// aapt resource value: 0x7f080015
+			public const int txtProfession = 2131230741;
 			
-			// aapt resource value: 0x7f08000c
-			public const int txtSecondName = 2131230732;
+			// aapt resource value: 0x7f080014
+			public const int txtSecondName = 2131230740;
 			
 			// aapt resource value: 0x7f080001
 			public const int txtUsername = 2131230721;
@@ -188,19 +224,22 @@ namespace ProEventsApp
 			public const int activity_webview = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int Dialog_Sign_In = 2130903041;
+			public const int Create_Event_Form = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int Dialog_Sign_Up = 2130903042;
+			public const int Dialog_Sign_In = 2130903042;
 			
 			// aapt resource value: 0x7f030003
-			public const int Main = 2130903043;
+			public const int Dialog_Sign_Up = 2130903043;
 			
 			// aapt resource value: 0x7f030004
-			public const int Main_Profile = 2130903044;
+			public const int Main = 2130903044;
 			
 			// aapt resource value: 0x7f030005
-			public const int Profile_Set_Up = 2130903045;
+			public const int Main_Profile = 2130903045;
+			
+			// aapt resource value: 0x7f030006
+			public const int Profile_Set_Up = 2130903046;
 			
 			static Layout()
 			{

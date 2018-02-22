@@ -1,3 +1,4 @@
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\ProEventsApp.csprojResolveAssemblyReference.cache
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\ProEventsApp.csproj.CoreCompileInputs.cache
 E:\4th Year Project\ProEventsApp\ProEventsApp\bin\Release\ProEventsApp.dll
 E:\4th Year Project\ProEventsApp\ProEventsApp\bin\Release\ProEventsApp.pdb
@@ -24,9 +25,11 @@ E:\4th Year Project\ProEventsApp\ProEventsApp\bin\Release\Validation.xml
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\ProEventsApp.dll
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\ProEventsApp.pdb
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\android\bin\ProEventsApp.ProEventsApp.apk
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\res\layout\create_event_form.xml
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\res\layout\dialog_sign_in.xml
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\res\layout\dialog_sign_up.xml
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\res\layout\profile_set_up.xml
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\res\layout\main_profile.xml
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\res\layout\main.xml
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\res\values\strings.xml
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\res\drawable\btnsigninstyle.xml
@@ -35,12 +38,14 @@ E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\res\drawable\edit_text
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\res\anim\slide_up.xml
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\res\anim\slide_right.xml
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\res\values\styles.xml
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\res\drawable\home.png
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\res\drawable\events.png
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\res\drawable\create.png
+E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\res\drawable\connections.png
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\R.cs.flag
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\uploadflags.txt
 E:\4th Year Project\ProEventsApp\ProEventsApp\bin\Release\ProEventsApp.dll.mdb
 E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\android\assets\ProEventsApp.dll.mdb
-E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\ProEventsApp.csprojResolveAssemblyReference.cache
-E:\4th Year Project\ProEventsApp\ProEventsApp\obj\Release\res\layout\main_profile.xml
 E:\4th Year Project\ProEventsApp\ProEventsApp\bin\Release\ProEventsApp.dll
 bin\Release\Mono.Android.pdb
 bin\Release\mscorlib.pdb
@@ -48,9 +53,9 @@ bin\Release\System.Core.pdb
 bin\Release\System.pdb
 bin\Release\System.Net.Http.pdb
 bin\Release\System.Xml.pdb
+bin\Release\System.Xml.Linq.pdb
 bin\Release\System.Runtime.Serialization.pdb
 bin\Release\System.ServiceModel.Internals.pdb
-bin\Release\System.Xml.Linq.pdb
 bin\Release\Microsoft.CSharp.pdb
 bin\Release\System.Numerics.pdb
 bin\Release\Mono.Security.pdb
@@ -62,9 +67,9 @@ obj\Release\linksrc\System.Core.pdb
 obj\Release\linksrc\System.pdb
 obj\Release\linksrc\System.Net.Http.pdb
 obj\Release\linksrc\System.Xml.pdb
+obj\Release\linksrc\System.Xml.Linq.pdb
 obj\Release\linksrc\System.Runtime.Serialization.pdb
 obj\Release\linksrc\System.ServiceModel.Internals.pdb
-obj\Release\linksrc\System.Xml.Linq.pdb
 obj\Release\linksrc\Microsoft.CSharp.pdb
 obj\Release\linksrc\System.Numerics.pdb
 obj\Release\linksrc\Mono.Security.pdb

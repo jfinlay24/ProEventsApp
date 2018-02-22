@@ -22,34 +22,48 @@ public final class R {
     public static final class drawable {
         public static int btnsigninstyle=0x7f020000;
         public static int btnsignupstyle=0x7f020001;
-        public static int edit_text_style=0x7f020002;
-        public static int ic_arrow_back=0x7f020003;
+        public static int connections=0x7f020002;
+        public static int create=0x7f020003;
+        public static int edit_text_style=0x7f020004;
+        public static int events=0x7f020005;
+        public static int home=0x7f020006;
+        public static int ic_arrow_back=0x7f020007;
     }
     public static final class id {
         public static int btnDialogSignin=0x7f080003;
         public static int btnDialogSignup=0x7f080005;
-        public static int btnSave=0x7f080010;
+        public static int btnSave=0x7f080018;
         public static int btnSignIn=0x7f080007;
         public static int btnSignUp=0x7f080009;
-        public static int county=0x7f08000e;
-        public static int textRegister=0x7f08000a;
+        public static int connections=0x7f080010;
+        public static int county=0x7f080016;
+        public static int createEvents=0x7f08000e;
+        public static int events=0x7f08000c;
+        public static int home=0x7f08000a;
+        public static int textRegister=0x7f080012;
         public static int txtConfirmPassword=0x7f080004;
+        public static int txtConnections=0x7f080011;
         public static int txtCreateAccount=0x7f080006;
-        public static int txtDescripton=0x7f08000f;
-        public static int txtFirstName=0x7f08000b;
+        public static int txtCreateEvents=0x7f08000f;
+        public static int txtDescripton=0x7f080017;
+        public static int txtEvents=0x7f08000d;
+        public static int txtFirstName=0x7f080013;
+        public static int txtHome=0x7f08000b;
         public static int txtOr=0x7f080008;
         public static int txtPassword=0x7f080002;
-        public static int txtProfession=0x7f08000d;
-        public static int txtSecondName=0x7f08000c;
+        public static int txtProfession=0x7f080015;
+        public static int txtSecondName=0x7f080014;
         public static int txtUsername=0x7f080001;
         public static int webview=0x7f080000;
     }
     public static final class layout {
         public static int activity_webview=0x7f030000;
-        public static int dialog_sign_in=0x7f030001;
-        public static int dialog_sign_up=0x7f030002;
-        public static int main=0x7f030003;
-        public static int profile_set_up=0x7f030004;
+        public static int create_event_form=0x7f030001;
+        public static int dialog_sign_in=0x7f030002;
+        public static int dialog_sign_up=0x7f030003;
+        public static int main=0x7f030004;
+        public static int main_profile=0x7f030005;
+        public static int profile_set_up=0x7f030006;
     }
     public static final class string {
         public static int ApplicationName=0x7f050001;

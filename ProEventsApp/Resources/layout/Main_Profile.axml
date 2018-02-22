@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
+    android:orientation="horizontal"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
-
+    android:layout_height="match_parent"
+    android:weightSum="100">
+    <ActionMenuView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_weight="25"
+        android:id="@+id/home">
+        <TextView
+            android:text="Home"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtHome"
+            android:gravity="center" />
+    </ActionMenuView>
+    <ActionMenuView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_weight="25"
+        android:id="@+id/events">
+        <TextView
+            android:text="Events"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtEvents"
+            android:gravity="center" />
+    </ActionMenuView>
+    <ActionMenuView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_weight="25"
+        android:id="@+id/createEvents">
+        <TextView
+            android:text="Create Event"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtCreateEvents"
+            android:gravity="center" />
+    </ActionMenuView>
+    <ActionMenuView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_weight="25"
+        android:id="@+id/connections">
+        <TextView
+            android:text="Connections"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtConnections"
+            android:gravity="center" />
+    </ActionMenuView>
 </LinearLayout>

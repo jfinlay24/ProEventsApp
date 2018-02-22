@@ -69,7 +69,6 @@ namespace ProEventsApp
                 if (u == null)
                 {
                     DBHelper.InsertNewUser(newU);
-                    //MobileService.GetTable<Users>().InsertAsync(newUser);
                     Toast.MakeText(this, "User " + newU.username + " created! You can now log in!", ToastLength.Short).Show();
                     StartActivity(typeof(MainActivity));
                 }
@@ -83,12 +82,6 @@ namespace ProEventsApp
                 string message = "Passwords don't match.";
                 Toast.MakeText(this, message, ToastLength.Short).Show();
             }
-             /*users u = new users { username = zTxtUsername.Text, password = zTxtPassword.Text, confirmPassword = zTxtConfirmPassword.Text };
-             client = new MobileServiceClient(applicationURL);
-             CurrentPlatform.Init();
-             client.GetTable<users>().InsertAsync(u);
-             Toast.MakeText(this.Activity, "Data entered successfully", ToastLength.Long).Show();
-             Dismiss();*/
          }
 
         private void ValidateInput(object sender, TextChangedEventArgs e)
@@ -102,12 +95,5 @@ namespace ProEventsApp
                 input.Text = "";
             }
         }
-
-        /*public override void OnActivityCreated(Bundle savedInstanceState)
-        {
-            Dialog.Window.RequestFeature(WindowFeatures.NoTitle); //sets title bar to invisible
-            base.OnActivityCreated(savedInstanceState);
-            Dialog.Window.Attributes.WindowAnimations = Resource.Style.dialog_animation; // sets animations 
-        }*/
     }
 }

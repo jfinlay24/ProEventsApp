@@ -52,6 +52,10 @@ namespace ProEventsApp
                 users u = await DBHelper.GetUser(user);
                 if (PasswordStorage.VerifyPassword(zPassword, u.password))
                 {
+                    ISharedPreferences sp = GetSharedPreferences("Login", FileCreationMode.Private);
+                    //ISharedPreferences Ed = sp.Edit();
+                    edit.PutString("Username", u.username);
+                    edit.PutString("Password", u.password);
                     edit.PutString("UserID", u.ID);
                     edit.PutString("UserName", u.username);
                     edit.PutString("LoggedIn", "true");
@@ -62,14 +66,13 @@ namespace ProEventsApp
                     {
                         //go to main menu
                         Toast.MakeText(this, "Logged In and user made", ToastLength.Short).Show();
-                        StartActivity(typeof(MainProfile));
+                        StartActivity(typeof(SetUpProfile));
                     }
                     else
                     {
                         Toast.MakeText(this, "Profile", ToastLength.Short).Show();
-                        StartActivity(typeof(SetUpProfile));
+                        StartActivity(typeof(MainProfile));
                     }
-
                 }
                 else
                 {
